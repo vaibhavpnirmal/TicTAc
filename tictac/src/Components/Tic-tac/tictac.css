@@ -1,0 +1,35 @@
+body{
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    position: static;
+    width: 100px;
+    height: 50px;
+   
+    
+    font-size: 50px;
+    text-align: center;vertical-align:text-top;
+    
+  
+   
+}
+h1{
+    font-size: 100px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    gap:100px;
+}
+.row{
+    width: 100%;
+}
